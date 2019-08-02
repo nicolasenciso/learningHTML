@@ -1,0 +1,47 @@
+body{
+    background-color: azure;
+}
+
+h1{
+    color: red;
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-size: 250%;
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 30px;
+}
+
+#p1{
+    color: blue;
+}
+
+ol.items{
+    color: brown;
+}
+
+<style>
+a:link {
+  color: green; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>

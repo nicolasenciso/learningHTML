@@ -24,7 +24,7 @@ body{
 
 .inputBox{
     width: 250%;
-    height: 200px;
+    height: 190px;
 }
 
 .title{
@@ -34,4 +34,14 @@ body{
     text-align: center;
     margin-left: 80%;
     
+}
+
+.submitButton{
+    height: 190px;
+    width: 1275px;
+    background-color: #3c464b;
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 60px;
+    color: white;
 }

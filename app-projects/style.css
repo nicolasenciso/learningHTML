@@ -1,0 +1,15 @@
+body{
+    background-color: #ffffff;
+}
+
+
+.frame{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 250px;
+}
+
+.loginText{
+    font-family: sans-serif;
+    color: #697882;
+}

@@ -2,14 +2,36 @@ body{
     background-color: #ffffff;
 }
 
+.loginLogo{
+    margin-left: 10%;
+    margin-right: auto;
+    margin-top: 15%;
+    
+}
 
-.frame{
+.styledInput{
+    display: inline-block;
     position: absolute;
-    margin-top: 200px;
-    margin-left: 250px;
+    font-family: sans-serif;
+    
 }
 
 .loginText{
+    font-size: 60px;
+    font-family: sans-serif;
+    color: #2d373c;
+}
+
+.inputBox{
+    width: 250%;
+    height: 200px;
+}
+
+.title{
     font-family: sans-serif;
     color: #697882;
+    font-size: 800%;
+    text-align: center;
+    margin-left: 80%;
+    
 }
